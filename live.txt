@@ -2,106 +2,119 @@
 
 --- 端口 202 ---
 
-节点：183.10.180.117:202
+节点：183.10.180.15:202
 
-广东卫视,http://183.10.180.117:202/tsfile/live/1032_1.m3u8
-广东珠江,http://183.10.180.117:202/tsfile/live/1002_1.m3u8
-广东新闻,http://183.10.180.117:202/tsfile/live/1033_1.m3u8
-广东影视,http://183.10.180.117:202/tsfile/live/1034_1.m3u8
+广东卫视,http://183.10.180.15:202/tsfile/live/1032_1.m3u8
+广东珠江,http://183.10.180.15:202/tsfile/live/1002_1.m3u8
+广东新闻,http://183.10.180.15:202/tsfile/live/1033_1.m3u8
+广东影视,http://183.10.180.15:202/tsfile/live/1034_1.m3u8
 
-节点：183.10.180.97:202
+节点：183.10.180.44:202
 
-广东卫视,http://183.10.180.97:202/tsfile/live/1032_1.m3u8
-广东珠江,http://183.10.180.97:202/tsfile/live/1002_1.m3u8
-广东新闻,http://183.10.180.97:202/tsfile/live/1033_1.m3u8
-广东影视,http://183.10.180.97:202/tsfile/live/1034_1.m3u8
+广东卫视,http://183.10.180.44:202/tsfile/live/1032_1.m3u8
+广东珠江,http://183.10.180.44:202/tsfile/live/1002_1.m3u8
+广东新闻,http://183.10.180.44:202/tsfile/live/1033_1.m3u8
+广东影视,http://183.10.180.44:202/tsfile/live/1034_1.m3u8
 
-节点：183.10.180.84:202
+节点：183.10.180.247:202
 
-广东卫视,http://183.10.180.84:202/tsfile/live/1032_1.m3u8
-广东珠江,http://183.10.180.84:202/tsfile/live/1002_1.m3u8
-广东新闻,http://183.10.180.84:202/tsfile/live/1033_1.m3u8
-广东影视,http://183.10.180.84:202/tsfile/live/1034_1.m3u8
+广东卫视,http://183.10.180.247:202/tsfile/live/1032_1.m3u8
+广东珠江,http://183.10.180.247:202/tsfile/live/1002_1.m3u8
+广东新闻,http://183.10.180.247:202/tsfile/live/1033_1.m3u8
+广东影视,http://183.10.180.247:202/tsfile/live/1034_1.m3u8
 
-节点：183.10.180.116:202
+节点：183.10.180.33:202
 
-广东卫视,http://183.10.180.116:202/tsfile/live/1032_1.m3u8
-广东珠江,http://183.10.180.116:202/tsfile/live/1002_1.m3u8
-广东新闻,http://183.10.180.116:202/tsfile/live/1033_1.m3u8
-广东影视,http://183.10.180.116:202/tsfile/live/1034_1.m3u8
+广东卫视,http://183.10.180.33:202/tsfile/live/1032_1.m3u8
+广东珠江,http://183.10.180.33:202/tsfile/live/1002_1.m3u8
+广东新闻,http://183.10.180.33:202/tsfile/live/1033_1.m3u8
+广东影视,http://183.10.180.33:202/tsfile/live/1034_1.m3u8
 
-节点：183.10.180.75:202
+节点：183.10.180.51:202
 
-广东卫视,http://183.10.180.75:202/tsfile/live/1032_1.m3u8
-广东珠江,http://183.10.180.75:202/tsfile/live/1002_1.m3u8
-广东新闻,http://183.10.180.75:202/tsfile/live/1033_1.m3u8
-广东影视,http://183.10.180.75:202/tsfile/live/1034_1.m3u8
+广东卫视,http://183.10.180.51:202/tsfile/live/1032_1.m3u8
+广东珠江,http://183.10.180.51:202/tsfile/live/1002_1.m3u8
+广东新闻,http://183.10.180.51:202/tsfile/live/1033_1.m3u8
+广东影视,http://183.10.180.51:202/tsfile/live/1034_1.m3u8
 
-节点：183.10.180.81:202
+节点：183.10.180.22:202
 
-广东卫视,http://183.10.180.81:202/tsfile/live/1032_1.m3u8
-广东珠江,http://183.10.180.81:202/tsfile/live/1002_1.m3u8
-广东新闻,http://183.10.180.81:202/tsfile/live/1033_1.m3u8
-广东影视,http://183.10.180.81:202/tsfile/live/1034_1.m3u8
+广东卫视,http://183.10.180.22:202/tsfile/live/1032_1.m3u8
+广东珠江,http://183.10.180.22:202/tsfile/live/1002_1.m3u8
+广东新闻,http://183.10.180.22:202/tsfile/live/1033_1.m3u8
+广东影视,http://183.10.180.22:202/tsfile/live/1034_1.m3u8
 
-节点：183.10.180.54:202
+节点：183.10.180.46:202
 
-广东卫视,http://183.10.180.54:202/tsfile/live/1032_1.m3u8
-广东珠江,http://183.10.180.54:202/tsfile/live/1002_1.m3u8
-广东新闻,http://183.10.180.54:202/tsfile/live/1033_1.m3u8
-广东影视,http://183.10.180.54:202/tsfile/live/1034_1.m3u8
+广东卫视,http://183.10.180.46:202/tsfile/live/1032_1.m3u8
+广东珠江,http://183.10.180.46:202/tsfile/live/1002_1.m3u8
+广东新闻,http://183.10.180.46:202/tsfile/live/1033_1.m3u8
+广东影视,http://183.10.180.46:202/tsfile/live/1034_1.m3u8
 
-节点：183.10.180.60:202
+节点：183.10.180.16:202
 
-广东卫视,http://183.10.180.60:202/tsfile/live/1032_1.m3u8
-广东珠江,http://183.10.180.60:202/tsfile/live/1002_1.m3u8
-广东新闻,http://183.10.180.60:202/tsfile/live/1033_1.m3u8
-广东影视,http://183.10.180.60:202/tsfile/live/1034_1.m3u8
+广东卫视,http://183.10.180.16:202/tsfile/live/1032_1.m3u8
+广东珠江,http://183.10.180.16:202/tsfile/live/1002_1.m3u8
+广东新闻,http://183.10.180.16:202/tsfile/live/1033_1.m3u8
+广东影视,http://183.10.180.16:202/tsfile/live/1034_1.m3u8
 
-节点：183.10.180.57:202
+节点：183.10.180.30:202
 
-广东卫视,http://183.10.180.57:202/tsfile/live/1032_1.m3u8
-广东珠江,http://183.10.180.57:202/tsfile/live/1002_1.m3u8
-广东新闻,http://183.10.180.57:202/tsfile/live/1033_1.m3u8
-广东影视,http://183.10.180.57:202/tsfile/live/1034_1.m3u8
+广东卫视,http://183.10.180.30:202/tsfile/live/1032_1.m3u8
+广东珠江,http://183.10.180.30:202/tsfile/live/1002_1.m3u8
+广东新闻,http://183.10.180.30:202/tsfile/live/1033_1.m3u8
+广东影视,http://183.10.180.30:202/tsfile/live/1034_1.m3u8
 
 
 --- 端口 8081 ---
 
-节点：113.64.147.235:8081
+节点：113.64.147.144:8081
 
-广东体育,http://113.64.147.235:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.144:8081/hls/1/index.m3u8
 
-节点：113.64.147.168:8081
+节点：113.64.147.230:8081
 
-广东体育,http://113.64.147.168:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.230:8081/hls/1/index.m3u8
 
-节点：113.64.147.252:8081
+节点：113.64.147.101:8081
 
-广东体育,http://113.64.147.252:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.101:8081/hls/1/index.m3u8
 
-节点：113.64.147.236:8081
+节点：113.64.147.211:8081
 
-广东体育,http://113.64.147.236:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.211:8081/hls/1/index.m3u8
 
-节点：113.64.147.36:8081
+节点：113.64.147.18:8081
 
-广东体育,http://113.64.147.36:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.18:8081/hls/1/index.m3u8
 
-节点：113.64.147.38:8081
+节点：113.64.147.17:8081
 
-广东体育,http://113.64.147.38:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.17:8081/hls/1/index.m3u8
 
-节点：113.64.147.35:8081
+节点：113.64.147.60:8081
 
-广东体育,http://113.64.147.35:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.60:8081/hls/1/index.m3u8
 
-节点：113.64.147.42:8081
+节点：113.64.147.55:8081
 
-广东体育,http://113.64.147.42:8081/hls/1/index.m3u8
+广东体育,http://113.64.147.55:8081/hls/1/index.m3u8
+
+节点：113.64.147.179:8081
+
+广东体育,http://113.64.147.179:8081/hls/1/index.m3u8
 
 
 广东组播,#genre#
+
+广东珠江,http://nas.huase.ltd:8888/rtp/239.77.0.1:5146
+广东新闻,http://nas.huase.ltd:8888/rtp/239.77.0.173:5146
+广东民生,http://nas.huase.ltd:8888/rtp/239.77.0.225:5146
+广东体育,http://nas.huase.ltd:8888/rtp/239.77.0.112:5146
+广东影视,http://nas.huase.ltd:8888/rtp/239.77.0.217:5146
+大湾区卫视,http://nas.huase.ltd:8888/rtp/239.77.1.12:5146
+广东卫视,http://nas.huase.ltd:8888/rtp/239.77.0.84:5146
+广东少儿,http://nas.huase.ltd:8888/rtp/239.77.0.250:5146
 
 广东珠江,http://nas.xxika.net:8188/rtp/239.77.0.1:5146
 广东新闻,http://nas.xxika.net:8188/rtp/239.77.0.173:5146
@@ -130,23 +143,23 @@
 广东卫视,http://file.cyruslee.top:8888/rtp/239.77.0.84:5146
 广东少儿,http://file.cyruslee.top:8888/rtp/239.77.0.250:5146
 
-广东珠江,http://hyde-ipv6.dynv6.net:8100/rtp/239.77.0.1:5146
-广东新闻,http://hyde-ipv6.dynv6.net:8100/rtp/239.77.0.173:5146
-广东民生,http://hyde-ipv6.dynv6.net:8100/rtp/239.77.0.225:5146
-广东体育,http://hyde-ipv6.dynv6.net:8100/rtp/239.77.0.112:5146
-广东影视,http://hyde-ipv6.dynv6.net:8100/rtp/239.77.0.217:5146
-大湾区卫视,http://hyde-ipv6.dynv6.net:8100/rtp/239.77.1.12:5146
-广东卫视,http://hyde-ipv6.dynv6.net:8100/rtp/239.77.0.84:5146
-广东少儿,http://hyde-ipv6.dynv6.net:8100/rtp/239.77.0.250:5146
+广东珠江,http://www.hf-bopp.com:10000/rtp/239.77.0.1:5146
+广东新闻,http://www.hf-bopp.com:10000/rtp/239.77.0.173:5146
+广东民生,http://www.hf-bopp.com:10000/rtp/239.77.0.225:5146
+广东体育,http://www.hf-bopp.com:10000/rtp/239.77.0.112:5146
+广东影视,http://www.hf-bopp.com:10000/rtp/239.77.0.217:5146
+大湾区卫视,http://www.hf-bopp.com:10000/rtp/239.77.1.12:5146
+广东卫视,http://www.hf-bopp.com:10000/rtp/239.77.0.84:5146
+广东少儿,http://www.hf-bopp.com:10000/rtp/239.77.0.250:5146
 
-广东珠江,http://nas.huase.ltd:8888/rtp/239.77.0.1:5146
-广东新闻,http://nas.huase.ltd:8888/rtp/239.77.0.173:5146
-广东民生,http://nas.huase.ltd:8888/rtp/239.77.0.225:5146
-广东体育,http://nas.huase.ltd:8888/rtp/239.77.0.112:5146
-广东影视,http://nas.huase.ltd:8888/rtp/239.77.0.217:5146
-大湾区卫视,http://nas.huase.ltd:8888/rtp/239.77.1.12:5146
-广东卫视,http://nas.huase.ltd:8888/rtp/239.77.0.84:5146
-广东少儿,http://nas.huase.ltd:8888/rtp/239.77.0.250:5146
+广东珠江,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.1:5146
+广东新闻,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.173:5146
+广东民生,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.225:5146
+广东体育,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.112:5146
+广东影视,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.217:5146
+大湾区卫视,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.1.12:5146
+广东卫视,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.84:5146
+广东少儿,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.250:5146
 
 广东珠江,http://udp2.gdsz.eu.org:8888/rtp/239.77.0.1:5146
 广东新闻,http://udp2.gdsz.eu.org:8888/rtp/239.77.0.173:5146
@@ -157,11 +170,11 @@
 广东卫视,http://udp2.gdsz.eu.org:8888/rtp/239.77.0.84:5146
 广东少儿,http://udp2.gdsz.eu.org:8888/rtp/239.77.0.250:5146
 
-广东珠江,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.1:5146
-广东新闻,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.173:5146
-广东民生,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.225:5146
-广东体育,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.112:5146
-广东影视,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.217:5146
-大湾区卫视,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.1.12:5146
-广东卫视,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.84:5146
-广东少儿,http://hydeqnapnas.mycloudnas.com:8100/rtp/239.77.0.250:5146
+广东珠江,http://home.chenpingfeng.com:14022/rtp/239.77.0.1:5146
+广东新闻,http://home.chenpingfeng.com:14022/rtp/239.77.0.173:5146
+广东民生,http://home.chenpingfeng.com:14022/rtp/239.77.0.225:5146
+广东体育,http://home.chenpingfeng.com:14022/rtp/239.77.0.112:5146
+广东影视,http://home.chenpingfeng.com:14022/rtp/239.77.0.217:5146
+大湾区卫视,http://home.chenpingfeng.com:14022/rtp/239.77.1.12:5146
+广东卫视,http://home.chenpingfeng.com:14022/rtp/239.77.0.84:5146
+广东少儿,http://home.chenpingfeng.com:14022/rtp/239.77.0.250:5146
